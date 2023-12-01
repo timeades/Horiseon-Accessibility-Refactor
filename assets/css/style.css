@@ -22,6 +22,8 @@ body {
 
 .header h1 .seo {
     color: #d9dcd6;
+    /* text decoration added to remove the 3 dots using the tag abbr in the <h1> adds below the seo */
+    text-decoration: none;
 }
 
 .header nav {
